@@ -1,0 +1,21 @@
+{
+  "name": "project2",
+  "version": "1.0.0",
+  "description": "this is my second project",
+  "keywords": [
+    "node",
+    "javascript"
+  ],
+  "license": "ISC",
+  "author": "swathi",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js",
+    "start-employee": "node main.js employee.json",
+    "start-person": "node main.js person.json",
+    "start-test1": "node test1.js",
+    "start-test": "node test.js"
+  }
+}

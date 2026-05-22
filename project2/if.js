@@ -1,12 +1,3 @@
-# gitswathi
-
-swathi practice
-
-
-
-//### Git Commands
-
-
 const apples = 50;
 const speed = 80;
 const loginattempt = 5;
@@ -67,31 +58,3 @@ const newUser = "swathi";
 if (newUser.length < 7) {
     console.log("user name is too short")
 }
-
-````````
-
-
-git branch -d <branchname>
-
-
-
-git checkout <branchname> 
-
-
-
-git checkout -b <branchname>
-
-
-
-git add .
-
-
-
-git commit -m "your checkin text here"
-
-
-
-git push origin <branch name>
-
-
-```````

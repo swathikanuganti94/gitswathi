@@ -1,0 +1,66 @@
+{
+    "name": "swathi",
+    "email": "swathi123@gmail.com",
+    "phoneNumber": "1234567890",
+    "aadharId": "1234-1232-1234",
+    "addresses": {
+        "home": {
+            "street": "123 Main St",
+            "city": "Anytown",
+            "state": "Anystate",
+            "zipCode": "12345"
+        },
+        "work": {
+            "street": "456 Office Ave",
+            "city": "Busytown",
+            "state": "BusyState",
+            "zipCode": "67890"
+        }
+    },
+    "certifications": [
+        {
+            "certificationName": "AWS Certified Solutions Architect",
+            "validityDate": "2025-01-15"
+        },
+        {
+            "certificationName": "Certified Kubernetes Administrator",
+            "validityDate": "2026-03-10"
+        }
+    ],
+    "hobbies": [
+        "cooking",
+        "dancing",
+        "singing"
+    ],
+    "educationDetails": {
+        "SSC": {
+            "schoolName": "ABC High School",
+            "yearOfPassing": 2010,
+            "percentage": 85
+        },
+        "Intermediate": {
+            "schoolName": "XYZ Junior College",
+            "yearOfPassing": 2012,
+            "percentage": 90
+        },
+        "Graduation": {
+            "collegeName": "PQR University",
+            "yearOfPassing": 2016,
+            "percentage": 88
+        }
+    },
+    "familyDetails": {
+        "father": {
+            "fatherName": "xyz",
+            "phoneNumber": "0987654321"
+        },
+        "mother": {
+            "motherName": "abc",
+            "phoneNumber": "0987654321"
+        },
+        "spouse": {
+            "spouseName": "pqr",
+            "phoneNumber": "0987654321"
+        }
+    }
+}
